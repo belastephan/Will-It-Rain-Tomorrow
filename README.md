@@ -31,7 +31,7 @@ O objetivo deste projeto é o de construir um modelo preditivo para determinar s
 
 Os dados estão organizados em duas tabelas:
 
-- `rain_data_aus.csv`: Contém a maior parte das informações, já centralizadas, de todas as estações.
+- `rain_data_aus.csv`: Contém a maior parte das informações de todas as estações.
 
 - `wind_table_01.csv a wind_table_08.csv`: Contém informações sobre velocidade e orientação de ventos.
 
