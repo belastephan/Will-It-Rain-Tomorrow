@@ -1,7 +1,7 @@
 # Will-It-Rain
  Case
 
-<img align="right" src="https://imageresizer.static9.net.au/qc5VRza_ZoB63TskgGi0KBMwwzA=/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F9d49e6ea-c731-4acb-aa7f-e0fd18009b10">
+<img align="right" src="https://imageresizer.static9.net.au/qc5VRza_ZoB63TskgGi0KBMwwzA=/300x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F9d49e6ea-c731-4acb-aa7f-e0fd18009b10">
 
 ## Descrição
 
