@@ -1,7 +1,7 @@
 # Will-It-Rain
  Case
 
-<img align="right" src="https://imageresizer.static9.net.au/wTyhl1oHYzHksDP61p_NFdoNr24=/750x0/https%3A%2F%2Fvms-network-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F08%2F306244%2F200808-WEATHER.jpg" height='20' width='20>
+<img align="right" src="https://imageresizer.static9.net.au/wTyhl1oHYzHksDP61p_NFdoNr24=/750x0/https%3A%2F%2Fvms-network-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F08%2F306244%2F200808-WEATHER.jpg" height='20' width='20'>
 
 ## Project Status
 
