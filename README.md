@@ -19,11 +19,21 @@ A descrição das colunas se encontra no arquivo `data_dictionary.md`.
 
 ## Objetivo:
 
-O objetivo deste projeto é o de construir um modelo preditivo para determinar se vai ou não chover amanhã. 
+The objective of this project is to build a predictive model to determine whether or not it will rain tomorrow.
 
 ## The Steps
 
+In this project, I used data cleaning, manipulation and visualization libraries as well as scikit-learn for model development.
 
+During the project, after cleaning and statistical exploration, I observed cases of data leakage, redundancy and behavior patterns of variables.
+.
+Several iterations of predictive models such as the decision tree with different methods for variable selection were performed.
+
+In this methodology, concepts of tree reducing size, depth analysis and error graph were used.
+
+After that, the LGBM method was used with all numerical variables, with the most important variables using plot importance and with column reduction.
+
+As next steps, I would create new column to add information to the model as a new column called “season of the year”.
 
 ## Conclusion
 
