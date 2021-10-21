@@ -26,7 +26,7 @@ The objective of this project is to build a predictive model to determine whethe
 In this project, I used data cleaning, manipulation and visualization libraries as well as scikit-learn for model development.
 
 During the project, after cleaning and statistical exploration, I observed cases of data leakage, redundancy and behavior patterns of variables.
-.
+
 Several iterations of predictive models such as the decision tree with different methods for variable selection were performed.
 
 In this methodology, concepts of tree reducing size, depth analysis and error graph were used.
