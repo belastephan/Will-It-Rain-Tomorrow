@@ -48,7 +48,7 @@ The data is organized into two tables:
 ## Thanks
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 
-## Songs listened while programing
+## Songs listened while programming 🎼
 
 https://www.youtube.com/watch?v=UGAOstUIhpU
 
