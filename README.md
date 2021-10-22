@@ -39,11 +39,11 @@ As next steps, I would create new column to add information to the model as a ne
 
 ## Data
 
-Os dados estão organizados em duas tabelas:
+The data is organized into two tables:
 
-- `rain_data_aus.csv`: Contém a maior parte das informações de todas as estações.
+- `rain_data_aus.csv`: Contains most information for all seasons.
 
-- `wind_table_01.csv a wind_table_08.csv`: Contém informações sobre velocidade e orientação de ventos.
+- `wind_table_01.csv a wind_table_08.csv`: Contains wind speed and orientation information.
 
 ## Thanks
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
