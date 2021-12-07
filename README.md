@@ -9,13 +9,11 @@ Completed
 
 ## Project Description
 
-Este case consiste no desenho da construção de um modelo e dos insights extraídos dos dados.
+The purpose of this case is to identify the model and the insights extracted from the data.  
 
-O conjunto de dados contém observações diárias do clima de algumas estações meteorológicas na Austrália.
+The data set contains daily weather observations from some weather stations in Australia.
  
-As tabelas estão apartadas, pois são originadas de um outro instrumento e salvas em um sistema apartado.
-
-A descrição das colunas se encontra no arquivo `data_dictionary.md`.
+The tables are set apart and the columns descriptions were saved on the `data_dictionary.md` archieve.
 
 ## Objetivo:
 
