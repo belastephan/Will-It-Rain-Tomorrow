@@ -15,7 +15,7 @@ The data set contains daily weather observations from some weather stations in A
  
 The tables are set apart and the columns descriptions were saved on the `data_dictionary.md` archieve.
 
-## Objetivo:
+## Objective
 
 The objective of this project is to build a predictive model to determine whether or not it will rain tomorrow.
 
@@ -34,6 +34,8 @@ After that, the LGBM method was used with all numerical variables, with the most
 As next steps, I would create new column to add information to the model as a new column called “season of the year”.
 
 ## Conclusion
+
+
 
 ## Data
 
